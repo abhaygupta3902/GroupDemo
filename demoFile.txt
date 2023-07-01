@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Changed by ashish.
+=======
+This is just a demo file
+changing the file
+writing some other things
+>>>>>>> 45f66e4e391628d7c0f760e8d2924c899f480230
